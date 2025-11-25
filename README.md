@@ -5,7 +5,7 @@ Dê poder aos pequenos. Nosso SaaS permite que qualquer lojista crie sua loja pr
 
 
 
-#Manifesto — IndeeStore
+##Manifesto — IndeeStore
 
 Para os pequenos que pensam grande.
 
