@@ -27,3 +27,15 @@ um lugar onde qualquer um pode transformar seu produto em presença digital real
 Esse é o nosso compromisso:
 dar autonomia, simplicidade e profissionalismo para quem quer começar — ou recomeçar — do jeito certo.
 
+
+
+## Informações Técnicas
+
+O projeto foi desenvolvido com foco em simplicidade, escalabilidade e boas práticas. Toda a estrutura foi organizada para facilitar manutenção, expansão de funcionalidades e integração com outros serviços. As tecnologias utilizadas foram escolhidas para garantir desempenho, segurança e uma experiência consistente tanto para desenvolvedores quanto para usuários finais.
+
+### Principais Tecnologias
+- Django
+- TailWind
+- PostgreSQL
+
+### Estrutura do Projeto
